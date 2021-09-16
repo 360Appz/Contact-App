@@ -24,6 +24,7 @@ Link: https://www.youtube.com/watch?v=0jorhgK6fVM&list=PLhusV3ueKvupwJ2zIfKXp1mA
 * Visual Studio Code
 * Postman Web & Desktop (API testing, test whether data is sent/received) , Desktop is to connect local environment to web version
 * Nodemon - Need to install to keep track of changes made in Node JS
+* UI Code in UI Brnach
 
 ### References
 * https://www.youtube.com/watch?v=wtIvu085uU0
